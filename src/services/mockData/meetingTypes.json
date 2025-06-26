@@ -1,0 +1,47 @@
+[
+  {
+    "Id": 1,
+    "title": "Quick Chat",
+    "duration": 15,
+    "description": "A brief conversation to discuss your needs and how we can help.",
+    "bufferBefore": 5,
+    "bufferAfter": 5,
+    "color": "#5B21B6"
+  },
+  {
+    "Id": 2,
+    "title": "Strategy Session",
+    "duration": 60,
+    "description": "Deep dive into your goals and create a strategic plan forward.",
+    "bufferBefore": 10,
+    "bufferAfter": 10,
+    "color": "#10B981"
+  },
+  {
+    "Id": 3,
+    "title": "Team Sync",
+    "duration": 30,
+    "description": "Regular check-in with the team to align on priorities and progress.",
+    "bufferBefore": 5,
+    "bufferAfter": 0,
+    "color": "#3B82F6"
+  },
+  {
+    "Id": 4,
+    "title": "Discovery Call",
+    "duration": 45,
+    "description": "Understand your requirements and explore potential solutions together.",
+    "bufferBefore": 15,
+    "bufferAfter": 5,
+    "color": "#F59E0B"
+  },
+  {
+    "Id": 5,
+    "title": "1-on-1 Coaching",
+    "duration": 90,
+    "description": "Personalized coaching session to help you reach your professional goals.",
+    "bufferBefore": 10,
+    "bufferAfter": 15,
+    "color": "#EF4444"
+  }
+]
